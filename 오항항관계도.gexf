@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-10-13">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="modularity_class" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="김동우">
+        <attvalues>
+          <attvalue for="modularity_class" value="현수막나라"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.5947" y="-119.864914"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="1" label="김연숙">
+        <attvalues>
+          <attvalue for="modularity_class" value="현수막나라"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.1611" y="-202.38689"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="2" label="김효진">
+        <attvalues>
+          <attvalue for="modularity_class" value="현수막나라"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.79034" y="-83.49158"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="3" label="김현희">
+        <attvalues>
+          <attvalue for="modularity_class" value="현수막나라"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.02565" y="74.50612"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="4" label="김향림">
+        <attvalues>
+          <attvalue for="modularity_class" value="현수막나라"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="479.07184" y="-151.87787"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="5" label="김미순">
+        <attvalues>
+          <attvalue for="modularity_class" value="부부"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.31188" y="-22.844051"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="6" label="박용대">
+        <attvalues>
+          <attvalue for="modularity_class" value="부부"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.30412" y="-105.0402"></viz:position>
+        <viz:color r="0" g="183" b="218"></viz:color>
+      </node>
+      <node id="7" label="김형찬">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-193.11484" y="-631.8873"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="8" label="표대현">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-133.94176" y="-438.27103"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="9" label="박경호">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="76.056984" y="87.860085"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="10" label="오항">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.2257843" y="-10.446952"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="11" label="김미경">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-167.3067" y="-547.4457"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="12" label="손유진">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.90486" y="-362.9087"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="13" label="오형">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="119.597" y="9.213958"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="14" label="이태연">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.42758" y="315.5"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="15" label="장용">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="165.89868" y="542.8265"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="16" label="이현우">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="226.4723" y="609.50415"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="17" label="정소선">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="152.94405" y="631.9756"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="18" label="김경미">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.97453" y="-89.561"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="19" label="한옥선">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.177981" y="-134.21428"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="20" label="주유라">
+        <attvalues>
+          <attvalue for="modularity_class" value="경주시지인/가족"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.94994" y="115.363556"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="21" label="장월조">
+        <attvalues>
+          <attvalue for="modularity_class" value="무속인"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.88565" y="191.16168"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="22" label="이서목">
+        <attvalues>
+          <attvalue for="modularity_class" value="무속인"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.1329" y="141.88191"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="23" label="김정미">
+        <attvalues>
+          <attvalue for="modularity_class" value="무속인"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-373.47556" y="107.23586"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="24" label="박은영">
+        <attvalues>
+          <attvalue for="modularity_class" value="무속인"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.6374" y="73.21734"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="10" target="0"></edge>
+      <edge id="1" source="0" target="1"></edge>
+      <edge id="2" source="0" target="2"></edge>
+      <edge id="3" source="10" target="3"></edge>
+      <edge id="4" source="0" target="4"></edge>
+      <edge id="5" source="10" target="5"></edge>
+      <edge id="6" source="10" target="6"></edge>
+      <edge id="7" source="11" target="7"></edge>
+      <edge id="8" source="12" target="8"></edge>
+      <edge id="9" source="10" target="9"></edge>
+      <edge id="11" source="12" target="11"></edge>
+      <edge id="12" source="10" target="12"></edge>
+      <edge id="13" source="10" target="13"></edge>
+      <edge id="14" source="10" target="14"></edge>
+      <edge id="15" source="14" target="15"></edge>
+      <edge id="16" source="15" target="16"></edge>
+      <edge id="17" source="15" target="17"></edge>
+      <edge id="18" source="10" target="18"></edge>
+      <edge id="19" source="10" target="19"></edge>
+      <edge id="20" source="10" target="20"></edge>
+      <edge id="21" source="23" target="21"></edge>
+      <edge id="22" source="23" target="22"></edge>
+      <edge id="23" source="10" target="23"></edge>
+      <edge id="24" source="23" target="24"></edge>
+    </edges>
+  </graph>
+</gexf>
